@@ -31,6 +31,5 @@ pip install pandas scikit-learn
 Example
 If you input **"Inception"** (Movie) and select the **"Movie"** category, the system will provide recommendations for similar movies like **"Titanic"** and **"The Matrix"** based on their descriptions.
 
- Contributing
-Feel free to fork the repository, submit issues, or create pull requests for new features or improvements.
+
 
