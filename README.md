@@ -10,13 +10,13 @@ Recommendation System built using Python, pandas, and scikit-learn. It allows us
 
 Requirements
 
-Make sure you have the following Python packages installed:
+the following Python packages installed:
 
 - pandas (`pip install pandas`)
 - scikit-learn (`pip install scikit-learn`)
 - Tkinter (usually comes pre-installed with Python)
 
-You can install the necessary dependencies by running:
+Install the necessary dependencies by running:
 
 ```bash
 pip install pandas scikit-learn
